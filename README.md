@@ -1,3 +1,6 @@
+#Intro
+
+This is a bst implementated in Clojure. I did it for an extra credit practice in one of my CS courses back in Nov. 2015.
 # bsts
 
 The project uses [Midje](https://github.com/marick/Midje/).
